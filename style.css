@@ -67,7 +67,7 @@ a {
 }
 
   a:hover {
-    color: #EF540D;
+    color: #cb5c42;
     border-bottom-color: rgba(239, 84, 13, .5);
     background-color: rgba(239, 84, 13, .1);
   }
@@ -86,7 +86,7 @@ a {
 
   .btn:hover {
     color: #fff;
-    background-color: #EF540D;
+    background-color: #cb5c42;
   }
 
 .u-tac {
